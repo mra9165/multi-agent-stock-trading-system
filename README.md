@@ -46,7 +46,7 @@ Recommendation: HOLD
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/multi-agent-stock-trading-system.git
+   git clone(https://github.com/mra9165/multi-agent-stock-trading-system.git)
 
 2. Navigate to the project directory:
 
